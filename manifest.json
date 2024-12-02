@@ -1,7 +1,7 @@
 {
     "name": "Alonzo Draw & Chat PWA",
     "short_name": "AlonzoDrawChat",
-    "start_url": "/index.html",
+    "start_url": "http://127.0.0.1:8080",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#317EFB",
